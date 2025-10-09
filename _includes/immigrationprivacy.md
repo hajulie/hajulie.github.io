@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Immigration Advocacy Organization Privacy Study</title>
+<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+
+<header id="header"><div id="contact">
+        <a class="contact-link" href="mailto:bu.privacy.study@protonmail.com"><img src="assets/img/email-svgrepo-com.svg" alt="e-mail"/></a>
+        <a class="contact-link" href="https://signal.me/#eu/qRY077pU7vGg-DFdNxXrMMVxnGBEQKBbRwaRTl7d5MvVYjZG-Y9EpJxEGGN9Y36X"><img src="assets/img/Signal-Logo-Black.svg" alt="Signal" /></a>
+</div></header>
+
+<div id="main">
+<section id="about">
+<div id="about-content">
+<h1>Immigration Advocacy Organization Privacy Study</h1>
+
+<p>We are a group of researchers at Boston University focused on digital security and privacy.
+We are conducting research on digital privacy in immigration rights organizations in order
+to help organizations stay safe and defend themselves.</p>
+
+<p><strong>We are currently recruiting study participants who work or volunteer with immigrant advocacy
+organizations. We will use this information to create a workshop that offers practical privacy and
+security advice to these organizations.</strong> We will also publish a research paper with
+our findings.</p>
+
+<p>Participation involves:</p>
+
+<ul>
+    <li>One-on-one interviews with up to four interested organization members lasting approximately 1 hour each</li>
+    <li>Sharing your experience with using technology in your organization</li>
+    <li>Participation is voluntary, and can be ended at any time</li>
+    <li>Individuals may participate anonymously</li>
+</ul>
+
+<p>Benefits of participation include:</p>
+<ul>
+    <li>Opportunity to share your experience using technology in this space</li>
+    <li>Contribute to research that will help support immigrant rights organizations in staying secure online</li>
+</ul>
+
+<p>For participating, we will compensate each participant $25 in the form of a gift card.</p>
+
+<p><strong>We are committed to keeping you and your information safe.</strong> Only the research team will have
+access to the raw data. All findings will be synthesized. Individual organizations or participants
+will not be named, and we will generalize any details that could reveal the organization or participants.
+Any personal information such as contact information will be deleted immediately once no longer needed.</p>
+
+<p><strong>If you or somebody you know is interested in participating in this study, please contact us by
+    e-mail at <a href="mailto:bu.privacy.study@protonmail.com">bu.privacy.study@protonmail.com</a> or Signal at <a href="https://signal.me/#eu/qRY077pU7vGg-DFdNxXrMMVxnGBEQKBbRwaRTl7d5MvVYjZG-Y9EpJxEGGN9Y36X">this link</a>.</strong></p>
+
+<p>If your organization would be interested in a participating in a privacy and security workshop after
+the conclusion of the study, please let us know. <strong>You do not need to participate in the study to
+participate in the workshop.</strong></p>
+
+<h3>Our Team</h3>
+
+<p>Our research team consists of <a href="https://amcdon.com/">Dr. Allison McDonald</a>,
+<a href="https://www.hajulie.com/">Julie Ha</a>, <a href="https://heilaprecel.com/">Heila Precel</a>,
+and <a href="https://tylercalabrese.net/">Tyler Calabrese</a>.</p>
+
+<h3>Contacting Us Anonymously</h3>
+
+<p>If you would like to reach out to us anonymously, we recommend emailing us from a ProtonMail account,
+which you can create <a href="https://account.proton.me/mail/signup">here</a>. ProtonMail will be able to
+see that you emailed us and the subject line of your email, but not its contents. More information is
+available <a href="https://proton.me/mail/privacy-policy">on their website</a>.</p>
+</p>
+
+</div>
+<div id="graphic">
+<img src="assets/img/project-graphic.png" alt="e-mail"/>
+</div>
+</section>
+</div>
+</body>
+</html> 
