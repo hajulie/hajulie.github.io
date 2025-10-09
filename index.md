@@ -11,8 +11,8 @@ I did my undergraduate in computer science at Boston University.
 ## research interests 
 
 - **Applied Cryptography**: Specifically, I'm interested in building cryptographically secure tools for social good. 
-- **Usable Security**: 
-- **Computer science and law** 
+- **Usable Security**: I am focusing on understanding the ways in which digital technologies can both support and compromise communities facing heightened security risks.
+- **Computer science and law**: I'm interested in how computer science can aid in law, and policy regarding tech. 
 
 ## publications 
 - Private Eyes: Zero-Leakage Iris Searchable Encryption (CODASPY 2025) [eprint link](https://eprint.iacr.org/2023/736)
