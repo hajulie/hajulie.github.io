@@ -122,4 +122,13 @@ header {
     #graphic, #graphic>img {
         width: 90%;
     }
+
+     #graphic {
+        order: 2;
+        margin-top: 20px;
+    }
+
+    #about-content {
+        order: 1;
+    }
 }
