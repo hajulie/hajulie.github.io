@@ -111,24 +111,34 @@ header {
 /* media queries */
 /* * * * * * * * */
 @media only screen and (max-width: 60rem) {
-    #about, #headshot-and-photo {
+    /* Make the layout vertical on small screens */
+    #about {
+        display: flex;
         flex-direction: column;
+        align-items: center; /* centers items horizontally */
     }
 
     #about-content, #about-words {
         width: 100%;
     }
 
-    #graphic, #graphic>img {
-        width: 90%;
-    }
-
-     #graphic {
+    /* Move graphic below the content and center it */
+    #graphic {
         order: 2;
+        width: 90%;
         margin-top: 20px;
+        display: flex;
+        justify-content: center;
     }
 
+    #graphic > img {
+        width: 100%;
+        height: auto;
+    }
+
+    /* Make sure text content stays above */
     #about-content {
         order: 1;
     }
 }
+
