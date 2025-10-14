@@ -111,18 +111,18 @@ header {
 /* media queries */
 /* * * * * * * * */
 @media only screen and (max-width: 60rem) {
-    /* Make the layout vertical on small screens */
+    /* Stack content vertically on small screens */
     #about {
         display: flex;
         flex-direction: column;
-        align-items: center; /* centers items horizontally */
+        align-items: center;
     }
 
-    #about-content, #about-words {
+    #about-content {
+        order: 1;
         width: 100%;
     }
 
-    /* Move graphic below the content and center it */
     #graphic {
         order: 2;
         width: 90%;
@@ -135,10 +135,4 @@ header {
         width: 100%;
         height: auto;
     }
-
-    /* Make sure text content stays above */
-    #about-content {
-        order: 1;
-    }
 }
-
