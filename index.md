@@ -12,7 +12,7 @@ I did my undergraduate in computer science at Boston University.
 
 - **Applied Cryptography**: Specifically, I'm interested in building cryptographically secure tools for social good. 
 - **Usable Security**: I am focusing on understanding the ways in which digital technologies can both support and compromise communities facing heightened security risks.
-- **Computer science and law**: I'm interested in how computer science can aid in law, and policy regarding tech. 
+- **CS&law**: I'm interested in how computer science can aid in law, and policy regarding tech. 
 
 ## publications 
 - Private Eyes: Zero-Leakage Iris Searchable Encryption (CODASPY 2025) [eprint link](https://eprint.iacr.org/2023/736)
@@ -22,3 +22,7 @@ I did my undergraduate in computer science at Boston University.
 Check out what my friends are doing! 
 - [Ryan Little](https://ryanlittle.net/)
 - [Heila Precel](https://www.heilaprecel.com/#home)
+
+## unrelated 
+- [2025-2026 Boston Theater Season](./2526bostontheatreseason)
+- [Watching Theater as a Student](./theaterinboston)
