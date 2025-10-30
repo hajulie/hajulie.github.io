@@ -40,7 +40,7 @@ A.R.T. has really mainly has new musicals or smaller productions.
 A.R.T. is probably one of my favorite theaters to frequent, as they do a lot of pre-Broadway runs (
 [Waitress](https://americanrepertorytheater.org/shows-events/waitress/), 
 [Real Women Have Curves](https://americanrepertorytheater.org/shows-events/real-women-have-curves/), 
-[Two Strangers (Carry A Cake Across New York)](https://americanrepertorytheater.org/shows-events/two-strangers-carry-a-cake-across-new-york/) ([opening on Broadway in the 2026-2027 Season!](https://www.newyorktheatreguide.com/theatre-news/news/two-strangers-carry-a-cake-across-new-york-to-open-on-broadway))
+[Two Strangers (Carry A Cake Across New York)](https://americanrepertorytheater.org/shows-events/two-strangers-carry-a-cake-across-new-york/) ([opening on Broadway in the 2025-2026 Season!](https://www.newyorktheatreguide.com/theatre-news/news/two-strangers-carry-a-cake-across-new-york-to-open-on-broadway))
 )
 
 ### Student Ticket Options 
