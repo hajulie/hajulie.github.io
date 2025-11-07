@@ -4,7 +4,7 @@ layout: homepage
 
 ## about
 
-I am a Ph.D. student at Boston University's Faculty of Computing and Data Science, advised by [Mayank Varia](https://www.mvaria.com/). 
+I am a Ph.D. candidate at Boston University's Faculty of Computing and Data Science, advised by [Mayank Varia](https://www.mvaria.com/). 
 
 I did my undergraduate in computer science at Boston University. 
 

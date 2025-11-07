@@ -3,6 +3,7 @@ layout: default
 permalink: /2526bostontheatreseason/
 title: 25-26 Boston Theater Season
 ---
+<!-- star unicode &#9734;  -->
 
 # 2025-2026 Boston Theater Season 
 
@@ -38,8 +39,8 @@ Black Swan &#9734;| May 26 - Jun 28
 Show | Dates | Watched?
 --- | --- | ---
 The Hills of California | Sep 11 - Oct 12 | Yes 
-Sardines (a comedy about death) | Sept 30 - Nov 16 | Bought tickets! 
-Fun Home | Nov 14 - Dec 14 
+Sardines (a comedy about death) | Sept 30 - Nov 16 | Yes
+Fun Home | Nov 14 - Dec 14 | Bought tickets!
 We Had a World | Feb 12 - Mar 15 
 Oedipus el Rey | May 7 - June 7  
 Eureka Day &#9734;| May 29 - June 28 
@@ -48,7 +49,7 @@ Eureka Day &#9734;| May 29 - June 28
 
 Show | Dates | Watched?
 --- | --- | ---
-Primary Trust | Sept 12 - Oct 11 | No :( 
+Primary Trust | Sept 12 - Oct 11 | No :(
 Lizard Boy: A New Musical | Oct 24 - Nov 22 
 Job | Jan 16 - Feb 7 | on Broadway 
 The Antiquities | Mar 6 - 28 
