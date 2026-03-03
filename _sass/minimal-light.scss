@@ -215,8 +215,9 @@ papertitle {
       }
 
       .image.avatar img {
-        border-radius: 100%;
-        width: 45%;
+        border-radius: 50px;
+        height: auto; 
+        width: auto;
         padding: 20px;
         // border: 1px solid #ddd;
         // padding: 3px;
@@ -499,7 +500,7 @@ footer {
 
 
    .image.avatar img {
-        border-radius: 100%;
+        border-radius: 50px;
         width: 117px;
         padding:20px;
       }

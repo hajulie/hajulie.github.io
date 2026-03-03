@@ -15,9 +15,9 @@ Show | Dates | Theatre | Watched?
 --- | --- | --- | ---
 Mrs. DoubtFire | Sept 9 - 21 | Emerson Colonial Theater | Yes 
 Hamilton | Sept 23 - Nov 2 | Citizens Opera House | on Broadway 
-Sound of Music | Jan 6 - 18 | Citizens Opera House 
-Some Like It Hot | Jan 28-Feb 8 | Citizens Opera House 
-Kinky Boots | Feb 17-22 | Citizens Opera House 
+Sound of Music | Jan 6 - 18 | Citizens Opera House | No :(
+Some Like It Hot | Jan 28-Feb 8 | Citizens Opera House | No :(
+Kinky Boots | Feb 17-22 | Citizens Opera House | No :(
 Suffs &#9734; | Mar 17-29 | Emerson Colonial Theatre 
 The Outsiders &#9734; | Mar 31 - Apr 12 | Citizens Opera House 
 Beauty and the Beast | Apr 14 - May 2 | Citizens Opera House 
@@ -31,7 +31,7 @@ Show | Dates | Watched?
 --- | --- | ---
 Passengers | Sep 2 - 26 | Yes 
 300 Painting | Oct 1 - 25 | No 
-Wonder &#9734; | Dec 9 - Feb 8 | Bought tickets! 
+Wonder &#9734; | Dec 9 - Feb 8 | Yes
 Black Swan &#9734;| May 26 - Jun 28
 
 ## Huntington Theater 
@@ -40,7 +40,7 @@ Show | Dates | Watched?
 --- | --- | ---
 The Hills of California | Sep 11 - Oct 12 | Yes 
 Sardines (a comedy about death) | Sept 30 - Nov 16 | Yes
-Fun Home | Nov 14 - Dec 14 | Bought tickets!
+Fun Home | Nov 14 - Dec 14 | Yes
 We Had a World | Feb 12 - Mar 15 
 Oedipus el Rey | May 7 - June 7  
 Eureka Day &#9734;| May 29 - June 28 
@@ -50,7 +50,7 @@ Eureka Day &#9734;| May 29 - June 28
 Show | Dates | Watched?
 --- | --- | ---
 Primary Trust | Sept 12 - Oct 11 | No :(
-Lizard Boy: A New Musical | Oct 24 - Nov 22 
+Lizard Boy: A New Musical | Oct 24 - Nov 22 | No :(
 Job | Jan 16 - Feb 7 | on Broadway 
 The Antiquities | Mar 6 - 28 
 Swept Away &#9734;| Apr 24 - May 23 
@@ -60,8 +60,8 @@ Swept Away &#9734;| Apr 24 - May 23
 Show | Dates | Watched?
 --- | --- | ---
 Our Town | Sept 19 - Oct 19 | No :(
-A Sherlock Carol | Nov 14 - Dec 21 | 
-Penelope | Feb 6 - Mar 1 | 
+A Sherlock Carol | Nov 14 - Dec 21 | No :(
+Penelope | Feb 6 - Mar 1 | No :(
 Angry, Raucous, and Shamelessly Gorgeous | Mar 20 - Apr 12 | 
 Something Rotten | May 1 - June 7 | 
 
