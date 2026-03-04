@@ -2,6 +2,10 @@
 layout: homepage
 ---
 
+<span style="color: red; font-weight: bold; font-size:30px">
+Are you here from my lightning talk at RWC? Please go [here.](./cryptocollabs)
+</span>
+
 ## about
 
 I am a Ph.D. candidate at Boston University's Faculty of Computing and Data Science, advised by [Mayank Varia](https://www.mvaria.com/). 
