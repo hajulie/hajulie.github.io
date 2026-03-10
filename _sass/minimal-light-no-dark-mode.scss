@@ -476,9 +476,12 @@ footer {
   }
 
   .image.avatar img {
+      // border-radius: 100%;
+      // width: 95px;
+      // padding:20px;
       border-radius: 100%;
-      width: 95px;
-      padding:20px;
+      width: 45%;
+      padding: 20px;
   }
   #head1o2 {
     visibility: hidden;
