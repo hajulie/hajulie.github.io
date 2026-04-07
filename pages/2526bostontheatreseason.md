@@ -18,8 +18,8 @@ Hamilton | Sept 23 - Nov 2 | Citizens Opera House | on Broadway
 Sound of Music | Jan 6 - 18 | Citizens Opera House | No :(
 Some Like It Hot | Jan 28-Feb 8 | Citizens Opera House | No :(
 Kinky Boots | Feb 17-22 | Citizens Opera House | No :(
-Suffs &#9734; | Mar 17-29 | Emerson Colonial Theatre 
-The Outsiders &#9734; | Mar 31 - Apr 12 | Citizens Opera House 
+Suffs &#9734; | Mar 17-29 | Emerson Colonial Theatre | Yes
+The Outsiders &#9734; | Mar 31 - Apr 12 | Citizens Opera House | Yes 
 Beauty and the Beast | Apr 14 - May 2 | Citizens Opera House 
 Les Miserables | Jun 9 - 28 | Citizens Opera House | In London 
 The Great Gatsby | Jul 7 - 19 | Citizens Opera House | on Broadway 
@@ -41,7 +41,7 @@ Show | Dates | Watched?
 The Hills of California | Sep 11 - Oct 12 | Yes 
 Sardines (a comedy about death) | Sept 30 - Nov 16 | Yes
 Fun Home | Nov 14 - Dec 14 | Yes
-We Had a World | Feb 12 - Mar 15 
+We Had a World | Feb 12 - Mar 15 | Yes
 Oedipus el Rey | May 7 - June 7  
 Eureka Day &#9734;| May 29 - June 28 
 
@@ -52,7 +52,7 @@ Show | Dates | Watched?
 Primary Trust | Sept 12 - Oct 11 | No :(
 Lizard Boy: A New Musical | Oct 24 - Nov 22 | No :(
 Job | Jan 16 - Feb 7 | on Broadway 
-The Antiquities | Mar 6 - 28 
+The Antiquities | Mar 6 - 28 | No
 Swept Away &#9734;| Apr 24 - May 23 
 
 ## Lyric Stage 
