@@ -1,0 +1,168 @@
+\documentclass[letterpaper,11pt]{article}
+\usepackage{graphicx} % Required for inserting images
+\usepackage[empty]{fullpage}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[pdftex]{hyperref}
+\usepackage{fancyhdr}
+\usepackage{titlesec}
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.375in}
+\addtolength{\evensidemargin}{-0.375in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\setlength{\parindent}{0pt}
+\setlength{\hangindent}{1.2em}
+
+\titleformat{\subsection}[block] % or [block] if you want it on its own line
+  {\normalfont\bfseries}         % font style: bold
+  {\thesubsection}               % label (numbering)
+  {1em}                          % space between number and title
+  {\underline}                   % before-code: applies underline to title
+
+\let\svthefootnote\thefootnote
+\newcommand\freefootnote[1]{%
+  \let\thefootnote\relax%
+  \footnotetext{#1}%
+  \let\thefootnote\svthefootnote%
+}
+
+\begin{document}
+\begin{center}
+    {\LARGE \bf Julie Ha}
+\end{center}
+
+\subsection*{{Contact Information}}
+Website: \url{https://hajulie.com}
+\\
+Email: \href{mailto:hajulie@bu.edu}{hajulie@bu.edu}
+
+\subsection*{{Education}}
+\textbf{Boston University Computing and Data Sciences} Boston, MA\\
+\textit{Ph.D. Candidate}\\
+Advisor: Mayank Varia\\
+Research Interests: applied cryptography, computer science and law, usable security and privacy\\
+~\\
+\textbf{Boston University} Boston, MA\\
+\textit{B.A. in Computer Science with Honors}\\
+Recipient of Computer Science Award for Academic Excellence\\
+Senior Thesis: Oblivious Searchable Encryption for Irises\\
+September 2018 - May 2022
+
+\subsection*{Publications}
+\begin{enumerate}[label={[\arabic*]}, leftmargin=*, align=left]
+
+\item R. Canetti, J. Ha, G. Kaptchuk\\
+Analyzing Cryptography in Context: A Cryptography-Native Approach to Threat Modeling\\ 
+In Submission to Usenix 2026
+\begin{itemize}[nosep]
+    \item Contribute a framework for analyzing sociotechnical goals of cryptographic deployments 
+\end{itemize}
+
+\item  J. Ha, C. Cachet, L. Demarest, S. Ahmad, B. Fuller \\
+Private Eyes: Zero-Leakage Iris Searchable Encryption.\\ 
+ACM Conference on Data and Application Security and Privacy (CODASPY) \\
+\url{https://eprint.iacr.org/2023/736}
+\begin{itemize}[nosep]
+    \item Contribute the first \textit{zero-leakage} biometric database using locality sensitive hashes (LSHs) and oblivious maps 
+    \item Implemented Private Eyes in Python and tested implementation on real, synthetic, and random irises
+\end{itemize}
+
+\item  Y. Gvili, J. Ha, S. Scheffler, M. Varia, Z. Yang, and X. Zhang \\
+TurboIKOS: Improved Non-interactive Zero Knowledge and Post-Quantum Signatures.\\
+International Conference on Applied Cryptography and Network Security (ACNS) 2021 \\
+\url{https://eprint.iacr.org/2021/478}
+\begin{itemize}[nosep]
+    \item Contribute a new zero-knowledge argument proof in the MPC-in-the-head paradigm (MPCitH) that retains all benefits of MPCitH while providing concretely smaller proof sizes 
+    \item Implemented TurboIKOS in Python
+\end{itemize}
+\end{enumerate}
+
+\subsection*{Works in Progress}
+\begin{enumerate}[label={[\arabic*]}, leftmargin=*, align=left]
+
+% \item J. Ha, S. Scheffler, E. Tromer, M. Varia. 
+\item Measuring Content Transformation for Fair Use
+\begin{itemize}[nosep]
+    \item Contribute a formal technical definition of a fair-use property using elements of Kolmogorov complexity
+\end{itemize}
+
+\item Digital Security and Privacy in Immigration Rights Organization
+\begin{itemize}[nosep]
+    \item Interview personnel at immigration-rights organizations to identify digital security and privacy concerns related to their use of existing digital tools
+\end{itemize}
+
+\item Private Borrowing and Calendar Appointment System 
+\begin{itemize}[nosep]
+    \item Building a cryptographically secure system for borrowing systems, such as libraries and bike shares, and calendar appointment systems, that prioritizes user privacy
+\end{itemize}
+
+
+\end{enumerate}
+
+\subsection*{Awards}
+CDS Teaching Excellence Award (May 2026)\\
+Hariri Institute Community Recognition Awards - Graduate Student Excellence Award (June 2023)
+
+\subsection*{Teaching Experience}
+Fall 2025: Graduate TA for \href{https://crypto-ds.github.io/}{DS653: Crypto for DS} \\
+Spring 2025: Graduate TA for \href{https://alishahc.com/teaching/ds593-sp25/sp25-classpage.html}{DS593: Privacy in Practice} \\
+Spring 2023: Graduate TA for \href{https://www.cs.umd.edu/~kaptchuk/teaching/cs558/sp23-classpage.html}{CS558: Network Security} \\
+Spring 2022: Grader for CS538: Fundamentals of Cryptography, Grader for CS558: Network Security\\ 
+Fall 2021: Undergraduate Teaching Assistant for CS357: Introduction to Information Security
+
+\subsection*{Talks}
+\textbf{Building a Guidebook for Collaborations between Cryptographers and Social Good Organizations}\\
+\textit{\href{https://absurd.cs.tufts.edu/index.html}{Annual Boston Security Usability Research Day} (ABSURD) (February 2026)}\\
+\textbf{Private Eyes: Zero-Leakage Iris Searchable Encryption} \\
+\textit{ACM Conference on Data and Application Security and Privacy (June 2025)} \\
+\textit{University of California, Berkeley Security Seminar (May 2025)} \\
+\textbf{TurboIKOS: Improved Non-interactive Zero Knowledge and Post-Quantum Signatures}\\
+\textit{University of Connecticut Security Seminar (July 2021)} \\ 
+\textit{International Conference for Applied Cryptography and Network Security (June 2021) }
+
+\subsection*{Posters}
+\textbf{Cryptography in Context: The Case Study of Apple's CSAM Scanning Proposal}\\
+\textit{New England Security Day 2024} \\
+\textit{Annual Boston Security Usability Research Day (ABSURD) 2024} 
+
+\subsection*{External Reviewer}
+Privacy Enhancing Technologies Symposium (PETS) 2026 \\
+USENIX Security 2025 \\
+CCS 2024 \\
+USENIX Security 2023 \\
+CCS 2023 \\
+USENIX Security 2022 \\ 
+Crypto 2022 
+
+\subsection*{Outreach}
+\textbf{CodeBreakers} Boston, MA (Remote)	
+
+Coordinator							
+\begin{itemize}[nosep]
+    \item Instructed cryptography portion of a summer program for high school sophomores and juniors to help create relationships in STEM and introduce topics in computer science
+    \item Created activities related to computer science to facilitate engagement remotely 
+\end{itemize}
+June 2020 - August 2020
+
+\subsection*{References}
+Available upon request 
+~
+\freefootnote{Updated~\today}
+
+\end{document}
