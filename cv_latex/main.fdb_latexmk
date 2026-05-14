@@ -1,6 +1,6 @@
 # Fdb version 4
-["pdflatex"] 1778764199.43049 "/Users/julie/Documents/github/hajulie.github.io/cv_latex/main.tex" "main.pdf" "main" 1778764199.71579 0
-  "/Users/julie/Documents/github/hajulie.github.io/cv_latex/main.tex" 1778764198.68669 6693 31ffc93b2357b4ea26b5cf8767886d41 ""
+["pdflatex"] 1778765320.58654 "/Users/julie/Documents/github/hajulie.github.io/cv_latex/main.tex" "main.pdf" "main" 1778765320.97133 0
+  "/Users/julie/Documents/github/hajulie.github.io/cv_latex/main.tex" 1778765320.10263 6685 c1dec453c06232721d01f1f15dc83e36 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc" 1136849721 2900 1537cc8184ad1792082cd229ecc269f4 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2025/texmf-dist/fonts/tfm/jknappen/ec/tcrm1095.tfm" 1136768653 1536 02c06700a42be0f5a28664c7273f82e7 ""
@@ -89,9 +89,9 @@
   "/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1768573531 5467155 19efa205003f9ecad95fbbaa6ff24da1 ""
   "/usr/local/texlive/2025/texmf-var/web2c/pdftex/pdflatex.fmt" 1741450574 3345740 46b66fdb0378f7bf5921b5eabf1762b8 ""
   "/usr/local/texlive/2025/texmf.cnf" 1741450484 577 418a7058ec8e006d8704f60ecd22c938 ""
-  "main.aux" 1778764199.69098 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
-  "main.out" 1778764199.59987 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
-  "main.tex" 1778764198.68669 6693 31ffc93b2357b4ea26b5cf8767886d41 ""
+  "main.aux" 1778765320.94169 162 87159b23cce7c2b923b11c85495bbd6d "pdflatex"
+  "main.out" 1778765320.7929 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "main.tex" 1778765320.10263 6685 c1dec453c06232721d01f1f15dc83e36 ""
   (generated)
   "main.aux"
   "main.log"
