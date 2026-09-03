@@ -19,6 +19,7 @@ I did my undergraduate in computer science at Boston University.
 - **CS&law**: I'm interested in how computer science can aid in law, and policy regarding tech. 
 
 ## publications 
+- Analyzing Cryptography in Context: A Cryptography-Native Approach to Threat Modeling (USENIX 2026) [eprint link](https://eprint.iacr.org/2026/1507)
 - Private Eyes: Zero-Leakage Iris Searchable Encryption (CODASPY 2025) [eprint link](https://eprint.iacr.org/2023/736)
 - TurboIKOS: Improved Non-interactive Zero Knowledge and Post-Quantum Signatures (ACNS 2022) [eprint link](https://eprint.iacr.org/2021/478)
 
