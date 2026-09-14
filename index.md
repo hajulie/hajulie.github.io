@@ -3,7 +3,7 @@ layout: homepage
 ---
 
 <span style="color: red; font-weight: bold; font-size:30px">
-Are you here from RWC? Please go [here.](./cryptocollabs)
+Did we chat at Social Foundations of Cryptography Autumn School? Please go [here.](./cryptocollabs)
 </span>
 
 ## about
