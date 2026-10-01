@@ -28,6 +28,6 @@ Check out what my friends are doing!
 - [Ryan Little](https://ryanlittle.net/)
 - [Heila Precel](https://www.heilaprecel.com/#home)
 
-## unrelated 
+<!-- ## unrelated 
 - [2025-2026 Boston Theater Season](./2526bostontheatreseason)
-- [Watching Theater as a Student](./theaterinboston)
+- [Watching Theater as a Student](./theaterinboston) -->

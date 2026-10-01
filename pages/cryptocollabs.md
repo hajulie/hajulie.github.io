@@ -27,4 +27,4 @@ Please fill out [this Qualtrics form](https://bostonu.qualtrics.com/jfe/form/SV_
 While we're not ready to do interviews yet, we will reach out to you when the time comes. 
 
 # Questions, Concerns, Feedback 
-If you have any thoughts, I'd be happy to chat! Feel free to email me; I'd love to hear what you think and have a longer conversation about it. 
+If you have any thoughts, I'd be happy to chat! Feel free to email me (lastnamefirstname@bu.edu); I'd love to hear what you think and have a longer conversation about it. 
